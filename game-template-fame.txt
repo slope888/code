@@ -1,0 +1,127 @@
+<div class="game-bubble" data-game="game16" data-category="action" onclick="openGame('game16')">
+
+          <img
+            src="https://imgs.search.brave.com/B4wdV9bAicwLp00LQozjyyg7RJuplSvcpxXqI7KOdG0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9VdUlsN1VPdEtt/QWpYR0hYN3FYX1h2/RUlmRTlLODV1OTJh/MGYwQmY3aHhLTXBS/bUxGVjZFZE9FQV8w/TXJNcFRvUHB6TEdh/R1A5cDRuZUh3aEZx/dHM9dzI0MC1oNDgw"
+            alt="Game One"
+            style="width: 100%; height: 130px; object-fit: cover; border-radius: 0.25rem; margin-bottom: 1rem;">
+
+          <div>
+            <span style="font-size: 0.7rem; opacity: 0.4; letter-spacing: 0.2em;">
+              16
+            </span>
+
+            <h3>Cookie Clicker</h3>
+          </div>
+
+          <p style="opacity: 0.6; font-size: 0.85rem; margin: 0;">
+            Action
+          </p>
+        </div>
+<div class="game-bubble" data-game="game17" data-category="action" onclick="openGame('game17')">
+          <img            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbDNOeeKunbYN-hDmNOvaN749XWEcQEFO9qNt4x-NFm9AonjPOnQ3fCA:https://berkleyspectator.com/wp-content/uploads/2024/12/NBSXGdvkcUfCJaJZtxaCIS17GfvAcS22wKPDe34p.jpg&s=10"
+
+            alt="Game One"
+            style="width: 100%; height: 130px; object-fit: cover; border-radius: 0.25rem; margin-bottom: 1rem;">
+
+          <div>
+            <span style="font-size: 0.7rem; opacity: 0.4; letter-spacing: 0.2em;">
+              17
+            </span>
+
+            <h3>Block Blast</h3>
+          </div>
+
+          <p style="opacity: 0.6; font-size: 0.85rem; margin: 0;">
+            Action
+          </p>
+        </div>
+<div class="game-bubble" data-game="game18" data-category="sports" onclick="openGame('game18')">
+          <img            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl34eGeOc4s0OXJaToKp6FclkvMIXGtd6FsHp3J69Er2CwgG97DnfVuqwZ:https://play-lh.googleusercontent.com/AFZP_Im7LJsmR-DzGeV-LcElyixhsbxqm0lQ2w1uWd85Qx88K-TqX3wPXLgXX3tonc8DtnPO2ALTfHvw-LkjdQ%3Dw526-h296-rw&s=10"
+
+            alt="Game One"
+            style="width: 100%; height: 130px; object-fit: cover; border-radius: 0.25rem; margin-bottom: 1rem;">
+
+          <div>
+            <span style="font-size: 0.7rem; opacity: 0.4; letter-spacing: 0.2em;">
+              18
+            </span>
+
+            <h3>Basket Random</h3>
+          </div>
+
+          <p style="opacity: 0.6; font-size: 0.85rem; margin: 0;">
+            Sports
+          </p>
+        </div>
+<div class="game-bubble" data-game="game19" data-category="action" onclick="openGame('game19')">
+          <img            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJPTweQbstIb_rk1cVzAuRF6v930-OJNJeWB_dUG7JXlrKIY7TepSUD9g:https://play-lh.googleusercontent.com/-ea7jhAdEQF5ZL4hjeZlx_TvBuB8zLdaPKgTSbbiQ03u6DQsKOZUYsAknaalrEtmFiHZiCFHZ1mHZlFj2M6pcw&s=10"
+
+            alt="Game One"
+            style="width: 100%; height: 130px; object-fit: cover; border-radius: 0.25rem; margin-bottom: 1rem;">
+
+          <div>
+            <span style="font-size: 0.7rem; opacity: 0.4; letter-spacing: 0.2em;">
+              19
+            </span>
+
+            <h3>Maze</h3>
+          </div>
+
+          <p style="opacity: 0.6; font-size: 0.85rem; margin: 0;">
+            Action
+          </p>
+        </div>
+<div class="game-bubble" data-game="game20" data-category="action" onclick="openGame('game20')">
+          <img            src="https://imgs.search.brave.com/8LGjCCgQ6lpfz0GBTIb_fArQ9nw0m9kbCBar4FBKgeQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9leHRl/cm5hbC1wcmV2aWV3/LnJlZGQuaXQvTllz/WnJFQUFCYUpvUklv/MDA0LXczbkRfcHZh/dHpWV1lqcW52ckJT/bFlKay5qcGc_YXV0/bz13ZWJwJnM9N2Nj/M2MxM2Q3ZTFkMzFh/NGY3YmNiMzQ4ODkz/NDkyZTM5NzNmMjBk/OA"
+
+            alt="Game One"
+            style="width: 100%; height: 130px; object-fit: cover; border-radius: 0.25rem; margin-bottom: 1rem;">
+
+          <div>
+            <span style="font-size: 0.7rem; opacity: 0.4; letter-spacing: 0.2em;">
+              20
+            </span>
+
+            <h3>Three Goblets</h3>
+          </div>
+
+          <p style="opacity: 0.6; font-size: 0.85rem; margin: 0;">
+            Action
+          </p>
+        </div>
+<div class="game-bubble" data-game="game21" data-category="action" onclick="openGame('game21')">
+          <img            src="https://imgs.search.brave.com/BtSG36vvKpMNvydNc6gl5f8rm2_MaJx9ckIR0TTp0p0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMubmludGVuZG8u/Y29tL2ltYWdlL3Vw/bG9hZC9hcl8xNjo5/LGNfbHBhZCx3XzEy/NDAvYl93aGl0ZS9m/X2F1dG8vcV9hdXRv/L3N0b3JlL3NvZnR3/YXJlL3N3aXRjaC83/MDAxMDAwMDAxMzA2/NC9jZjY5NTM1NmJj/YmRmNmE2OTAzMTBl/ZWI3ZmVlZDliY2Y1/MDNlMWI5ZjI2ZWEx/MTQzNTk3MTMxYTBh/MjJiYTU3"
+
+            alt="Game One"
+            style="width: 100%; height: 130px; object-fit: cover; border-radius: 0.25rem; margin-bottom: 1rem;">
+
+          <div>
+            <span style="font-size: 0.7rem; opacity: 0.4; letter-spacing: 0.2em;">
+              21
+            </span>
+
+            <h3>Brick Breaker</h3>
+          </div>
+
+          <p style="opacity: 0.6; font-size: 0.85rem; margin: 0;">
+            Action
+          </p>
+        </div>
+<div class="game-bubble" data-game="game22" data-category="action" onclick="openGame('game22')">
+          <img            src="https://imgs.search.brave.com/48Ccul3uxBInb_y60CF61avRCvLceGkNKF_iHF3sSlk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/eW91dHViZS5jb20v/dmkvOFhJenl5Yy12/bVEvMC5qcGc"
+
+            alt="Game One"
+            style="width: 100%; height: 130px; object-fit: cover; border-radius: 0.25rem; margin-bottom: 1rem;">
+
+          <div>
+            <span style="font-size: 0.7rem; opacity: 0.4; letter-spacing: 0.2em;">
+              22
+            </span>
+
+            <h3>Mutilate a Doll 2</h3>
+          </div>
+
+          <p style="opacity: 0.6; font-size: 0.85rem; margin: 0;">
+            Action
+          </p>
+        </div>
